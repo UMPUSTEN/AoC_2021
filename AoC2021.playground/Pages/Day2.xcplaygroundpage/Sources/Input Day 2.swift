@@ -1,0 +1,2 @@
+public let inputDay2 = """
+"""
