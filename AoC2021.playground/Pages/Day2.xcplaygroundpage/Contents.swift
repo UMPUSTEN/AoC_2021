@@ -39,4 +39,5 @@ let part2 = input.reduce((horizontal: 0, depth: 0, aim: 0)) { position, directio
         return (position.horizontal, position.depth, position.aim)
     }
 }
-print(part2.horizontal*part2.depth)
+
+part2.horizontal*part2.depth
