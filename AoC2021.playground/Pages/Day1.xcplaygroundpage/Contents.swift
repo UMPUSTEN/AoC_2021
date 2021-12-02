@@ -1,5 +1,4 @@
 import Foundation
-import Algorithms
 
 let input = inputDay1.components(separatedBy: .newlines).map { Int($0)! }
 var counter = 0
